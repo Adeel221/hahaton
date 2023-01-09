@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://i.artfile.ru/1920x1200_1214678_[www.ArtFile.ru].jpg);
+}
+
+.img {
+    height: 300px;
+    width: 300px;
+}
+
+.button_header {
+    border: 5px solid #ab81f0;
+    background-color: #ab81f0;
+    border-radius: 10px;
+}
+
+.navbar-brand {
+    display: flex;
+    justify-content: center;
+    font-size: 39px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.header_info {
+    border: 2px outset #ab81f0;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+.img {
+    border-radius: 200px;
+}
+
+.header_three {
+    font-weight: bold;
+}
